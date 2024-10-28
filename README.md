@@ -9,10 +9,11 @@ This project is a personal portfolio website built using HTML, CSS, and Bootstra
 * **Footer with Social Links**: Connect with me on LinkedIn, GitHub, and Instagram via clickable social media icons.
 
 ## Technologies Used
-- **HTML: Structure and content of the website.
-- **CSS: Custom styles for layout and appearance.
-- **Bootstrap: Responsive design and component styling for a clean, modern look.
-- **Font Awesome: Icons for skills and social media links.
+- **HTML**: Structure and content of the website.
+- **CSS**: Custom styles for layout and appearance.
+- **Bootstrap**: Responsive design and component styling for a clean, modern look.
+- **Font Awesome**: Icons for skills and social media links.
+
 ## Installation and Usage
 Clone the repository:
 

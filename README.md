@@ -22,7 +22,4 @@ Copy code
 git clone https://github.com/AbinS2003/personal-portfolio.git
 Open index.html in your preferred web browser.
 
-## Future Enhancements
-Adding animations to skills and section transitions.
-Expanding project and experience sections.
-Integrating backend support for contact form submissions.
+

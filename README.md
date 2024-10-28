@@ -10,9 +10,9 @@ This project is a personal portfolio website built using HTML, CSS, and Bootstra
 
 ## Technologies Used
 - **HTML: Structure and content of the website.
--**CSS: Custom styles for layout and appearance.
--**Bootstrap: Responsive design and component styling for a clean, modern look.
--**Font Awesome: Icons for skills and social media links.
+- **CSS: Custom styles for layout and appearance.
+- **Bootstrap: Responsive design and component styling for a clean, modern look.
+- **Font Awesome: Icons for skills and social media links.
 ## Installation and Usage
 Clone the repository:
 
